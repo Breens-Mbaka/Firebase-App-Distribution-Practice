@@ -16,7 +16,7 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
       - name: build debug
-        run: ./gradlew assembleDevDebug
+        run: ./gradlew assembleDebug
       - name: Upload artifact to Firebase App Distribution
         uses: wzieba/Firebase-Distribution-Github-Action@v1
         with:
