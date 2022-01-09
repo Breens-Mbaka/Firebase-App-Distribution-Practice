@@ -10,9 +10,9 @@ Your testers are sent an email for the APK
 <img src="/images/testinvitation.png">
 
 ### Helpful resources to dive in
-[Firebase App Distribution With GitHub Actions](https://levelup.gitconnected.com/how-to-deploy-to-firebase-app-distribution-with-github-actions-ef2061725cd5)
-[Setup CI For Android Apps Using GitHub Actions](https://www.youtube.com/watch?v=K9w01h4-Wnc&list=PLEPZdzLLJH951c23xTdB2wpeSikkarDkk&index=11)
-[Building an Android CI Pipeline with GitHub Actions](https://www.youtube.com/watch?v=f3_bkhQRrtU&list=PLEPZdzLLJH951c23xTdB2wpeSikkarDkk&index=12)
+- [Firebase App Distribution With GitHub Actions](https://levelup.gitconnected.com/how-to-deploy-to-firebase-app-distribution-with-github-actions-ef2061725cd5)
+- [Setup CI For Android Apps Using GitHub Actions](https://www.youtube.com/watch?v=K9w01h4-Wnc&list=PLEPZdzLLJH951c23xTdB2wpeSikkarDkk&index=11)
+- [Building an Android CI Pipeline with GitHub Actions](https://www.youtube.com/watch?v=f3_bkhQRrtU&list=PLEPZdzLLJH951c23xTdB2wpeSikkarDkk&index=12)
 
 ### Reach out if you have any questions
 * Twitter - [@BreensR](https://twitter.com/BreensR)
