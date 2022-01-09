@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249162314904",
+    "project_id": "fir-app-configuration",
+    "storage_bucket": "fir-app-configuration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249162314904:android:cbd98443f79cce18d10ced",
+        "android_client_info": {
+          "package_name": "com.breens.firebaseappdistribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249162314904-1m9n0ou3ttlesspi4hahlksovonsc45n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDITkc5uGJ6mj_ludwvUUd_I3MJqTNn2E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249162314904-1m9n0ou3ttlesspi4hahlksovonsc45n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
